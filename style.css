@@ -1,12 +1,12 @@
 body {
-    background-color: #f1f1f1;
+    background-color: #FFFAFA;
     /* margin: 0; */
     font-family: sans-serif;
 
 }
 
 .container {
-    /* background-color: lightcoral; */
+    /* background-color: #FFFFFF ; */
     width: 1400px;
     margin: 0 auto;
 }
@@ -16,7 +16,7 @@ body {
 }
 
 .left-column {
-    background-color: #FFC0CB ;
+    background-color: #FFFAFA ;
     width: 33%;
     box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
     border-radius: 16px;
@@ -54,7 +54,7 @@ body {
 }
 
 .progress {
-    background-color: #f1f1f1;
+    background-color: #FFFAFA;
     border-radius: 8px;
 }
 
@@ -62,7 +62,7 @@ body {
     background-color: teal;
     border-radius: 8px;
     text-align: center;
-    color: #f1f1f1;
+    color: #FFFAFA;
 }
 
 .custom-height {
@@ -78,7 +78,7 @@ body {
     box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
     margin-bottom: 16px;
     border-radius: 8px;
-    background-color: #FFC0CB;
+    background-color: #FFFAFA;
     padding: 16px;
 }
 
